@@ -1,0 +1,3 @@
+Hello!
+ Welcome to File handling in python
+ File Handling can be done in several ways
